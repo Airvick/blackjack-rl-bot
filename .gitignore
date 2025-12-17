@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+blackjack_env/
+venv/
+.env/
+
+# Training outputs / large files
+policy_out/
+*.csv
+
+# Logs
+*.log
+
+# OS
+.DS_Store
